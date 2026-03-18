@@ -1,6 +1,8 @@
 # microcatpt
+<img width="2623" height="1065" alt="image" src="https://github.com/user-attachments/assets/12076a60-f1fc-45fe-9a8f-a75d8dd1f10e" />
 
-This is the mini GPT model based on Andrei Karpthy's microgpt https://karpathy.github.io/2026/02/12/microgpt/ project, 
+
+MicroCATpt is the mini-GPT model based on Andrei Karpthy's microgpt https://karpathy.github.io/2026/02/12/microgpt/ project, 
 but rewritten in Rust and with the purpose of cat names generation.
 
 It takes the same input file as microgpt (containing human names), catifies some of them and starts training.
